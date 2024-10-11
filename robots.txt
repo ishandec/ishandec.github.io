@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ishandec.github.io/sitemap.html.gz
+Sitemap: https://ishandec.github.io/app/sitemap.html.gz
+Sitemap: https://ishandec.github.io/assets/sitemap.html.gz
+Sitemap: https://ishandec.github.io/css/sitemap.html.gz
+Sitemap: https://ishandec.github.io/includes/sitemap.html.gz
+Sitemap: https://ishandec.github.io/item/sitemap.html.gz
+Sitemap: https://ishandec.github.io/src/sitemap.html.gz
